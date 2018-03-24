@@ -58,7 +58,7 @@ def get_data_from_iex(reload_sp500=False):
             # 'google', 'morningstar', etc...
             df.to_csv("Stocks_SP500/{}.csv".format(ticker))
         else:
-            print("Le symbole: {}, existe déjà dans le fichier".format(ticker))
+            print("Le fichier: {}.csv, existe déjà dans le repertoire".format(ticker))
 
 
 get_data_from_iex()

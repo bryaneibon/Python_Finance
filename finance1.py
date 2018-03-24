@@ -13,7 +13,7 @@ import pandas_datareader.data as web
 style.use('ggplot')
 
 start = dt.datetime(2013,1,1)
-end = dt.datetime(2018, 3, 14)
+end = dt.datetime(2018, 3, 23)
 
 
 # Les infos seront prisent de Google dans notre cas.

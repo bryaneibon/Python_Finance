@@ -11,7 +11,7 @@ import pandas_datareader.data as web
 style.use('ggplot')
 
 start = dt.datetime(2013,1,1)
-end = dt.datetime(2018, 3, 14)
+end = dt.datetime(2018, 3, 23)
 
 df = web.DataReader('TSLA','google', start, end)
 #print(df.tail(80))

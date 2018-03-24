@@ -1,6 +1,6 @@
 """By $.Georges Bryan DIFFO.$"""
 
-""" Visualisation graphique des données OHLC de Tesla..."""
+""" Visualisation graphique des données OHLC de Tesla"""
 import datetime as dt
 import matplotlib.pyplot as plt
 # 'from matplotlib.finance import candlestick_ohlc' n'est plus supporté
@@ -14,7 +14,7 @@ import pandas_datareader.data as wb
 style.use('ggplot')
 
 start = dt.datetime(2013,1,1)
-end = dt.datetime(2018, 3, 14)
+end = dt.datetime(2018, 3, 23)
 
 df = wb.DataReader('TSLA','google', start, end)
 
