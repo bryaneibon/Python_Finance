@@ -8,5 +8,5 @@
  
  -) Détermination des corrélations entre titres de compagnies.
  
- -) Apprentissage Automatique (Machine Learning), pour la prédiction des tendances d'actions sur des intervalles de temps prédéfinis, selon des données d'entrainement basées sur des résultats d'années antérieures. 
+ -) Apprentissage Automatique (Machine Learning), pour la prédiction des tendances d'actions sur des intervalles de temps prédéfinis, selon des données d'entrainement basées sur des résultats d'années antérieures (finance9.py <À Venir>). 
  
