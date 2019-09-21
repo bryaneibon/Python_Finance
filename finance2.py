@@ -1,7 +1,5 @@
 """By $.Georges Bryan DIFFO.$"""
-
 """ Les informations obtenues de Tesla sont ensuite mis dans un DataFrame, que l'on peut observer via un graphe..."""
-
 import datetime as dt
 import matplotlib.pyplot as plt
 from matplotlib import style
