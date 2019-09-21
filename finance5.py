@@ -1,5 +1,4 @@
 """By $.Georges Bryan DIFFO.$"""
-
 import bs4 as bs
 import pickle  # Pour la sauvegarde notre fichier 'sp500tickers'...
 import requests
