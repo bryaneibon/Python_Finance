@@ -1,5 +1,4 @@
 """By $.Georges Bryan DIFFO.$"""
-
 """ Effectuons quelques manipulations sur les données prisent de la compagnie 'tesla'..."""
 import datetime as dt
 import matplotlib.pyplot as plt
