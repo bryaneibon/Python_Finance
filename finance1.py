@@ -1,7 +1,5 @@
 """By $.Georges Bryan DIFFO.$"""
-
 """Ce script nous donne les informations sur les 5 dernières années de la compagnie 'Tesla' via 'Google Finance' """
-
 import datetime as dt
 import matplotlib.pyplot as plt
 from matplotlib import style
