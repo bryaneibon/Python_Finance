@@ -1,5 +1,4 @@
 """By $.Georges Bryan DIFFO.$"""
-
 """ Visualisation graphique des données OHLC de Tesla"""
 import datetime as dt
 import matplotlib.pyplot as plt
